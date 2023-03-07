@@ -135,7 +135,7 @@ body {
 
 .settings-number {
   width: 2rem;
-  text-align: right;
+  text-align: center;
   border: 1px solid #ccc;
   border-radius: 6px;
 }
@@ -175,6 +175,15 @@ input[type="range"]::-webkit-slider-runnable-track {
 input[type="range"]::-webkit-slider-thumb {
   border-radius: 5px;
   box-shadow: inset 0 0 0 20px #e68a00;
+}
+
+input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  appearance: textfield;
 }
 
 .btn {
