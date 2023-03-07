@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+    justify-content: center;
+
+    &-btn{
+    border-radius: 10px;
+    border : 0px solid darkblue;
+    padding: .3rem;
+    margin-top: 1rem;
+    background-color: lightsteelblue;
+    width: 50%;
+    &:hover{
+        cursor: pointer;
+    }
+    }
+}

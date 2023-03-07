@@ -1,0 +1,22 @@
+{
+  "name": "exos-citations",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel {src/*.html,src/**/*.html}",
+    "build": "parcel build {src/*.html,src/**/*.html}",
+    "clear": "rm -rf .parcel-cache dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feather-icons": "^4.29.0",
+    "parcel": "^2.8.2",
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2"
+  }
+}

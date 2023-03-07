@@ -1,0 +1,9 @@
+@use 'reset-css/sass/reset';
+@use '/src/assets/styles/_global';
+
+@use '/src/assets/styles/components/_header';
+@use '/src/assets/styles/components/_settings';
+@use '/src/assets/styles/components/_btn';
+@use '/src/assets/styles/components/_breathe';
+@use '/src/assets/styles/components/_select';
+@use '/src/assets/styles/components/_audio';

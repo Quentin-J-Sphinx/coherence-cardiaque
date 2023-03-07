@@ -1,0 +1,67 @@
+.divBreathe{
+    background-color: rgba(0, 0, 0, 0.788);
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    &-round{
+        background-color: rgb(236, 184, 116);
+        width: 15rem;
+        height: 15rem;
+        margin: auto;
+        margin-top: 20rem;
+        border-radius: 50%;
+        animation: breathe 3s ease 0s infinite normal none;
+        @keyframes breathe {
+            0% {
+                transform: scale(1);
+                box-shadow: 0px 0px 0px rgb(177, 137, 6);
+            }
+        
+            50% {
+                transform: scale(1.5);
+                box-shadow: 0px 0px 20px rgb(177, 137, 6);
+            }
+        
+            100% {
+                transform: scale(1);
+                box-shadow: 0px 0px 0px rgb(177, 137, 6);
+            }
+        }
+    }
+    &-osc{
+        background-color: rgb(236, 184, 116);
+        width: 15rem;
+        height: 15rem;
+        margin: auto;
+        margin-top: 20rem;
+        border-radius: 50%;
+        animation: oscilate 10s ease-in 0s infinite normal forwards;
+        @keyframes oscilate {
+            0% {
+                transform: translateY(0);
+            }
+        
+            50% {
+                transform: translateY(-300px);
+            }
+
+            100% {
+                transform: translateY(0);
+            }
+        }
+    }
+}
+
+#countdown{
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    left : 45;
+    top : 80;
+    font-size: 5em;
+    text-shadow: 0px -5px 10px rgba(10, 9, 3, 0.664);
+}
+
+.hidden{
+    display: none;
+}
