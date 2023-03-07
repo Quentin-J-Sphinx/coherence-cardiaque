@@ -11,13 +11,15 @@
             width: 33%;
             font-size: 3.5em;
             font-weight: bold;
+            color: rgb(250, 152, 4);
+            text-shadow: -5px 6px 8px rgb(0, 0, 0);
         }
     }
 }
 
 .settings{
     width: 33%;
-    height: 500px;
+    height: 50%;
     background-color: white;
     padding: 1rem;
     border-radius: 15px;
@@ -41,7 +43,7 @@
     }
 
     &-number{
-        width: 8%;
+        width: 2rem;
         border-radius: 6px;
         border: 1px solid #ccc;
         text-align: right;
@@ -71,7 +73,7 @@ input[type=range]{
     background: rgba(247,206,104);
     cursor: pointer;
     border-radius: 50px;
-    width: 150px;
+    width: 50%;
         &::-webkit-slider-runnable-track{
             border-radius: 50px;
             background-color: rgba(247,206,104);

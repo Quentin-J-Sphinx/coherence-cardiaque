@@ -557,28 +557,7 @@ function hmrAccept(bundle, id) {
 }
 
 },{}],"gJRPm":[function(require,module,exports) {
-const startBtn = document.getElementById("start");
-const sctElt = document.createElement("section");
-const divElt = document.createElement("div");
-const timerElt = document.createElement("p");
-const countdownElt = document.createElement("span");
-// countdownElt.textContent = "5:00";
-countdownElt.setAttribute("id", "countdown");
-const inputElt = document.getElementById("duration");
-const barElt = document.getElementById("bar");
-let timeSet = 5;
-inputElt.addEventListener("input", ()=>{
-    timeSet = parseFloat(inputElt.value);
-    barElt.value = parseFloat(inputElt.value);
-});
-barElt.addEventListener("input", ()=>{
-    timeSet = parseFloat(barElt.value);
-    inputElt.value = parseFloat(barElt.value);
-});
-// inputElt.addEventListener('input', () => {
-// barElt.value = inputElt.value;
-// })
-startBtn.addEventListener("click", (e)=>{
+function start(e) {
     e.preventDefault();
     sctElt.classList.add("divBreathe");
     sctElt.classList.remove("hidden");
@@ -592,12 +571,19 @@ startBtn.addEventListener("click", (e)=>{
         divElt.classList.add("divBreathe-osc");
         divElt.classList.remove("divBreathe-round");
     }
-    // else if (respirationElt.checked === false){
-    //     divElt.classList.remove('divBreathe-round');
-    // }
-    // else if (osciElt.checked === false){
-    //     divElt.classList.remove('divBreathe-osc');
-    // }
+    const valueSelect = selectElt.value;
+    if (divElt.classList.contains("divBreathe-round")) {
+        if (valueSelect === "5") divElt.className = "divBreathe-round";
+        else if (valueSelect === "6") divElt.className = "divBreathe-round divBreathe-round--six";
+        else if (valueSelect === "4") divElt.className = "divBreathe-round divBreathe-round--quatre";
+        else if (valueSelect === "3") divElt.className = "divBreathe-round divBreathe-round--trois";
+    } else if (divElt.classList.contains("divBreathe-osc")) {
+        if (valueSelect === "5") divElt.className = "divBreathe-osc";
+        else if (valueSelect === "6") divElt.className = "divBreathe-osc divBreathe-osc--six";
+        else if (valueSelect === "4") divElt.className = "divBreathe-osc divBreathe-osc--quatre";
+        else if (valueSelect === "3") divElt.className = "divBreathe-osc divBreathe-osc--trois";
+    }
+    console.log(valueSelect);
     sctElt.append(divElt);
     divElt.append(timerElt);
     timerElt.append(countdownElt);
@@ -634,7 +620,32 @@ startBtn.addEventListener("click", (e)=>{
             audio.pause();
         }
     });
+}
+const startBtn = document.getElementById("start");
+const startMobile = document.getElementById("start-mobile");
+const sctElt = document.createElement("section");
+const divElt = document.createElement("div");
+const timerElt = document.createElement("p");
+const selectElt = document.getElementById("breathe");
+const countdownElt = document.createElement("span");
+// countdownElt.textContent = "5:00";
+countdownElt.setAttribute("id", "countdown");
+const inputElt = document.getElementById("duration");
+const barElt = document.getElementById("bar");
+let timeSet = 5;
+inputElt.addEventListener("input", ()=>{
+    timeSet = parseFloat(inputElt.value);
+    barElt.value = parseFloat(inputElt.value);
 });
+barElt.addEventListener("input", ()=>{
+    timeSet = parseFloat(barElt.value);
+    inputElt.value = parseFloat(barElt.value);
+});
+// inputElt.addEventListener('input', () => {
+// barElt.value = inputElt.value;
+// })
+startBtn.addEventListener("click", start);
+startMobile.addEventListener("click", start);
 
 },{}]},["jpm68","gJRPm"], "gJRPm", "parcelRequire3fae")
 

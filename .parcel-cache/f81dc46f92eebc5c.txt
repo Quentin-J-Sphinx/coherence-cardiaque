@@ -1,4 +1,4 @@
-8229
+8230
 107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\map\map-keys.js133226737170772467 0
 111C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\htmlnano\docs\docs\030-config.md133226737146840250 0
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\get-iterator-method.js133226737163707394 0
@@ -57,7 +57,7 @@
 109C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\iterator\range.js133226737173702735 0
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-tree\lib\tokenizer\utils.js133226737149095034 0
 126C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133226737139370458 0
-70C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist133226737717794242 1
+70C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist133226803536964507 1
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\modules\es.string.replace.js133226737156750252 0
 89C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\json5133226737184068252 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\actual\object\to-string.js133226737180189824 0
@@ -112,14 +112,14 @@
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\parse-float.js133226737172900289 0
 121C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-tree\lib\syntax\function\expression.js133226737146290257 0
 123C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\internals\object-get-prototype-of.js133226737172110257 0
-91C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\scripts\app.js133225972823067478 0
+91C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\scripts\app.js133226803535842517 0
 103C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\actual\data-view133226737165785451 1
 100C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\msgpackr\dist\test.js133226737144278654 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\es\string\strike.js133226737177468968 0
 96C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\timsort\README.md133226737139702295 0
 99C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\actual\error133226737180179821 1
 124C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133226737143552322 0
-80C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\index.html133225972823285579 0
+80C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\index.html133226803098436803 0
 112C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\instance\includes.js133226737165441062 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-tree\lib\common\List.js133226737147706068 0
 125C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\string\virtual\code-point-at.js133226737151203141 0
@@ -172,7 +172,7 @@
 89C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\color-name133226737140115442 1
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\runtime-js\package.json133226737145922311 0
 125C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\node-resolver-core\src\NodeResolver.js133226737147270264 0
-83C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles133226736394633126 1
+83C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles133226794438066672 1
 114C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\edit-2.svg133226737148358315 0
 118C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\modules\esnext.iterator.take.js133226737158523789 0
 88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\yaml\dist133226737146392876 1
@@ -181,7 +181,7 @@
 104C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\supports-color\browser.js133226737139228055 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\terser\lib\equivalent-to.js133226737145205487 0
 105C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\picocolors\picocolors.d.ts133226737141122605 0
-109C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_settings.scss133225973414966758 0
+109C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_settings.scss133226792223124650 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components133226736394805772 1
 114C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\modules\web.set-interval.js133226737183196457 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\events\src\index.js133226737142054551 0
@@ -192,12 +192,16 @@
 118C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\ordered-binary\.idea\ordered-binary.iml133226737140007901 0
 111C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\packager-js\lib\index.js133226737143182742 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\index.scss133225972823275662 0
+117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\typed-array\find-index.js133226737161117377 0
+107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\events\lib\errors.js133226737141089280 0
+88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\reset-css133226737141109276 1
+95C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\_mixin.scss133226796082489697 0
 114C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\actual\iterator\to-array.js133226737178544169 0
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\cosmiconfig\dist\getPropertyByPath.js133226737141597818 0
-108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_breathe.scss133225972823220454 0
+108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_breathe.scss133226786930968834 0
 96C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\nth-check\LICENSE133226737138640218 0
 112C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\transformer-babel\LICENSE133226737138733072 0
-104C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_btn.scss133225972823235722 0
+104C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\src\assets\styles\components\_btn.scss133226801062244573 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\array\map.js133226737171091286 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\svgo\plugins\convertShapeToPath.js133226737144227209 0
 98C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\terser\lib\parse.js133226737146465373 0
@@ -710,9 +714,6 @@
 112C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\date\get-year.js133226737164234359 0
 101C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\README.md133226737183682581 0
 98C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\regenerator-runtime133226737140720496 1
-117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\typed-array\find-index.js133226737161117377 0
-107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\events\lib\errors.js133226737141089280 0
-88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\reset-css133226737141109276 1
 91C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\resolve-from133226737140083813 1
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\immutable\dist\immutable.min.js133226737142711140 0
 112C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\actual\array\to-sorted.js133226737179555433 0
@@ -908,7 +909,7 @@
 103C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\transformer-json133226737140364899 1
 120C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\align-center.svg133226737143995229 0
 108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\type-fest\source\mutable.d.ts133226737144380108 0
-87C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\mer.d6419e42.mp3133226737717322158 0
+87C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\mer.d6419e42.mp3133226801631434564 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\lmdb\caching.js133226737148910269 0
 122C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\caniuse-lite\data\features\pad-start-end.js133226737155375239 0
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\internals\a-weak-map.js133226737142783027 0
@@ -1168,7 +1169,7 @@
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\csso\lib\replace\AttributeSelector.js133226737142956117 0
 98C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\is-number\README.md133226737140175452 0
 102C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\picocolors\package.json133226737140175452 0
-88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.c574a7e0.js133226737717762695 0
+88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.c574a7e0.js133226803536901283 0
 123C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133226737144833841 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133226737141924069 0
 103C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\sass\types\importer.d.ts133226737147494813 0
@@ -2012,7 +2013,7 @@
 121C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\divide-square.svg133226737148213470 0
 124C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh133226737145260289 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\typed-array\keys.js133226737170127483 0
-81C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.html133226737717690374 0
+81C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.html133226803108638733 0
 108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\source-map\dist\source-map.js133226737144470314 0
 112C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\source-map\dist\source-map.min.js133226737144605681 0
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\object\freeze.js133226737162973796 0
@@ -3022,7 +3023,7 @@
 103C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\htmlnano\lib\htmlnano.js133226737142893855 0
 119C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\internals\async-iterator-wrap.js133226737149240319 0
 132C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@babel\highlight\node_modules\color-name\package.json133226737138845393 0
-92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.66d2a40a.js.map133226737717732678 0
+92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.66d2a40a.js.map133226803108356581 0
 107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\stable\array\flat.js133226737162285424 0
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-tree\lib\syntax\atrule\import.js133226737146930440 0
 99C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\htmlnano\lib\modules133226737145165468 1
@@ -3299,7 +3300,7 @@
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-tree\lib\lexer\match.js133226737147787264 0
 111C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\eye.svg133226737148488034 0
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\facebook.svg133226737148508032 0
-92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.c574a7e0.js.map133226737717784277 0
+92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.c574a7e0.js.map133226803536954512 0
 127C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133226737143385471 0
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\es\instance\code-point-at.js133226737151067866 0
 117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\file-plus.svg133226737148667435 0
@@ -3453,7 +3454,6 @@
 110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\caniuse-lite\data\regions\MQ.js133226737154759501 0
 118C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\shield-off.svg133226737150481399 0
 128C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\string\virtual\to-well-formed.js133226737180451653 0
-117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133226737143466129 0
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\sidebar.svg133226737150551284 0
 126C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\modules\es.typed-array.last-index-of.js133226737157360311 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\feather-icons\dist\icons\slack.svg133226737150594256 0
@@ -3991,6 +3991,7 @@
 102C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\es\math\cosh.js133226737152366740 0
 113C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133226737145345389 0
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\runtime-browser-hmr133226737142156285 1
+117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133226737143466129 0
 108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\reflect\apply.js133226737147093187 0
 128C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\proposals\explicit-resource-management.js133226737160205458 0
 117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\cosmiconfig\dist\ExplorerSync.d.ts.map133226737143752562 0
@@ -5383,8 +5384,8 @@
 106C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\string\bold.js133226737150659353 0
 98C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\commander\Readme.md133226737141754082 0
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\diagnostic\lib\diagnostic.js133226737139426560 0
-110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\url\to-json.js133226737178977899 0
 115C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\string\code-point-at.js133226737151158048 0
+110C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\url\to-json.js133226737178977899 0
 108C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\string\dedent.js133226737152597301 0
 107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\string\fixed.js133226737161850287 0
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\full\reflect\is-extensible.js133226737168140326 0
@@ -5706,7 +5707,6 @@
 119C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@parcel\source-map\dist\wasm-bindings.js133226737143847419 0
 109C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\@babel\code-frame\package.json133226737140338673 0
 118C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\typed-array\methods.js133226737171720294 0
-107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\node-gyp-build-test.cmd133226737184113357 0
 123C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\typed-array\reduce-right.js133226737173905381 0
 117C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\typed-array\reduce.js133226737174167411 0
 116C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\core-js\features\typed-array\slice.js133226737176234736 0
@@ -8210,6 +8210,7 @@
 93C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\json5.cmd133226737184068252 0
 129C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133226737184113357 0
 111C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\node-gyp-build-optional.ps1133226737184073458 0
+107C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\node-gyp-build-test.cmd133226737184113357 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\parcel.cmd133226737184103335 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\parcel.ps1133226737184103335 0
 88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\sass133226737184113357 0
@@ -8219,12 +8220,12 @@
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\terser.cmd133226737184123347 0
 94C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\node_modules\.bin\terser.ps1133226737184113357 0
 88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.4b78ddbd.js133226737614660614 0
-88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.66d2a40a.js133226737717700373 0
-88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.7be000ce.js133226737717530519 0
-92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.7be000ce.js.map133226737717560417 0
+88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.66d2a40a.js133226803108271713 0
+88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.7be000ce.js133226803108376580 0
+92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.7be000ce.js.map133226803108568345 0
 88C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.a5d63e94.js133226737614660614 0
 92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.a5d63e94.js.map133226737614735478 0
 92C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.cd788b6d.js.map133226737614735478 0
-89C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.d01dfbe0.css133226737717342097 0
-93C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.d01dfbe0.css.map133226737717393603 0
+89C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.d01dfbe0.css133226803108386594 0
+93C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.d01dfbe0.css.map133226803108568345 0
 93C:\Users\Hened\Documents\.DWA\S05\ep21\coherence-cardiaque-vercel\dist\index.fc0604f5.css.map133226737614735478 0

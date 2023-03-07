@@ -79,13 +79,15 @@ body {
 
 .main-divle--title {
   width: 33%;
+  color: #fa9804;
+  text-shadow: -5px 6px 8px #000;
   font-size: 3.5em;
   font-weight: bold;
 }
 
 .settings {
   width: 33%;
-  height: 500px;
+  height: 50%;
   background-color: #fff;
   border-radius: 15px;
   padding: 1rem;
@@ -111,7 +113,7 @@ body {
 }
 
 .settings-number {
-  width: 8%;
+  width: 2rem;
   text-align: right;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -139,7 +141,7 @@ label {
 
 input[type="range"] {
   cursor: pointer;
-  width: 150px;
+  width: 50%;
   background: #f7ce68;
   border-radius: 50px;
 }
@@ -160,16 +162,44 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 .btn-btn {
-  width: 50%;
-  background-color: #b0c4de;
-  border: 0 solid #00008b;
+  width: 80%;
+  max-width: 10rem;
+  text-transform: uppercase;
+  background-color: #f7ce68;
+  border: 0 solid;
   border-radius: 10px;
   margin-top: 1rem;
   padding: .3rem;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 40rem) {
+  .btn-btn {
+    display: none;
+  }
 }
 
 .btn-btn:hover {
   cursor: pointer;
+  background-color: #e68a00;
+}
+
+.btn-mobile {
+  display: none;
+}
+
+@media screen and (max-width: 40rem) {
+  .btn-mobile {
+    width: 80%;
+    max-width: 4rem;
+    color: #945900;
+    background-color: #f7ce68;
+    border: 0 solid;
+    border-radius: 10px;
+    margin-top: 1rem;
+    padding: .3rem;
+    display: block;
+  }
 }
 
 .divBreathe {
@@ -185,7 +215,7 @@ input[type="range"]::-webkit-slider-thumb {
   background-color: #ecb874;
   border-radius: 50%;
   margin: 20rem auto auto;
-  animation: 3s infinite breathe;
+  animation: 10s infinite breathe;
 }
 
 @keyframes breathe {
@@ -195,6 +225,73 @@ input[type="range"]::-webkit-slider-thumb {
   }
 
   50% {
+    background-color: #ff9100;
+    transform: scale(1.5);
+    box-shadow: 0 0 20px #b18906;
+  }
+
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+}
+
+.divBreathe-round--six {
+  animation: 10s infinite breathe_six;
+}
+
+@keyframes breathe_six {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+
+  60% {
+    background-color: #ff9100;
+    transform: scale(1.5);
+    box-shadow: 0 0 20px #b18906;
+  }
+
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+}
+
+.divBreathe-round--quatre {
+  animation: 10s infinite breathe_quatre;
+}
+
+@keyframes breathe_quatre {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+
+  40% {
+    background-color: #ff9100;
+    transform: scale(1.5);
+    box-shadow: 0 0 20px #b18906;
+  }
+
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+}
+
+.divBreathe-round--trois {
+  animation: 10s infinite breathe_trois;
+}
+
+@keyframes breathe_trois {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 #b18906;
+  }
+
+  30% {
+    background-color: #ff9100;
     transform: scale(1.5);
     box-shadow: 0 0 20px #b18906;
   }
@@ -216,15 +313,81 @@ input[type="range"]::-webkit-slider-thumb {
 
 @keyframes oscilate {
   0% {
-    transform: translateY(0);
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
   }
 
   50% {
-    transform: translateY(-300px);
+    background-color: #fd5d00;
+    transform: translateY(-300px)scale(1.5);
   }
 
   100% {
-    transform: translateY(0);
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+}
+
+.divBreathe-osc--six {
+  animation: 10s ease-in infinite forwards oscilate_six;
+}
+
+@keyframes oscilate_six {
+  0% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+
+  60% {
+    background-color: #fd5d00;
+    transform: translateY(-300px)scale(1.5);
+  }
+
+  100% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+}
+
+.divBreathe-osc--quatre {
+  animation: 10s ease-in infinite forwards oscilate_quatre;
+}
+
+@keyframes oscilate_quatre {
+  0% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+
+  40% {
+    background-color: #fd5d00;
+    transform: translateY(-300px)scale(1.5);
+  }
+
+  100% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+}
+
+.divBreathe-osc--trois {
+  animation: 10s ease-in infinite forwards oscilate_trois;
+}
+
+@keyframes oscilate_trois {
+  0% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
+  }
+
+  30% {
+    background-color: #fd5d00;
+    transform: translateY(-300px)scale(1.5);
+  }
+
+  100% {
+    background-color: #ecb874;
+    transform: translateY(0)scale(1);
   }
 }
 
