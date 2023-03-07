@@ -20,14 +20,11 @@
             font-weight: bold;
             color: rgb(250, 152, 4);
             text-shadow: -5px 6px 8px rgb(0, 0, 0);
-<<<<<<< HEAD
             @include mixin.small{
                 width: 100%;
                 text-align: center;
                 font-size: 3em;
             }
-=======
->>>>>>> dedf5769dc6ff089b4440594a691af0ae67a5cf4
         }
     }
 }
